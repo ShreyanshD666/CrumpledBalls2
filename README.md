@@ -1,2 +1,2 @@
-# CrumpledBalls2
-CrumpledBalls2 paper throwing game
+# C25 Crumpled balls Project
+
